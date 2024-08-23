@@ -1,6 +1,0 @@
-Start SimCLR training for 100 epochs.
-Training with gpu: True.
-Epoch [1/100], Loss: 6.241319
-Epoch [2/100], Loss: 6.236705
-Epoch [3/100], Loss: 6.236449
-Epoch [4/100], Loss: 6.236519
